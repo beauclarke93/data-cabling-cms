@@ -1,0 +1,1 @@
+// Main app entry (Home component)

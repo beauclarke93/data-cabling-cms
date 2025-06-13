@@ -1,0 +1,1 @@
+// Login component using Firebase Auth
